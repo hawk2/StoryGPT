@@ -1,7 +1,7 @@
 import openai
 import time
 
-openai.api_key = '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'
+openai.api_key = 'Your API key here'
 
 print("Welcome to StoryGPT!")
 time.sleep(2)
