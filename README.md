@@ -1,11 +1,12 @@
-# children-s-story-telling
+# StoryGPT
 
 Welcome to StoryGPT! This application integrates OpenAI's models to create a children's story based on user inputs and generates a corresponding DALL·E image.
 
 ## Requirements
 
-- Python 3.x
+- Python 3. x
 - OpenAI Python package
+- openai API key
 
 ## Setup
 
