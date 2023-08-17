@@ -6,7 +6,7 @@ Welcome to StoryGPT! This application integrates OpenAI's models to create a chi
 
 - Python 3. x
 - OpenAI Python package
-- openai API key
+- Openai API key
 
 ## Setup
 
